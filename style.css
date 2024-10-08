@@ -1,0 +1,160 @@
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Sixtyfour+Convergence&display=swap');
+
+
+
+.divnull{
+    height: 1000px;
+    width: 1400px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+
+
+.div1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 25%;  height: 25%;
+background-color:blue ;
+float: left;
+text-align: center;
+   text-align-last: center;
+}
+.div2{
+    font-family: 'Courier New', Courier, monospace;
+    width: 25%;  height: 25%;
+background-color:rgb(76, 43, 226) ;
+float: left;
+    
+}
+.div3{
+    font-family: 'Courier New', Courier, monospace;
+    width: 25%;  height: 25%;
+background-color:rgb(125, 34, 211) ;
+float: left;
+    
+}
+.div4{
+    font-family: 'Courier New', Courier, monospace;
+    width: 25%;  height: 25%;
+background-color:blueviolet ;
+float: left;
+
+
+
+}
+.div5{
+    font-family: 'Courier New', Courier, monospace;
+    width: 25%;  height: 25%;
+background-color:rgb(153, 102, 201) ;
+float: left;
+clear: both;
+
+}
+.div6{
+    font-family: 'Courier New', Courier, monospace;
+    width: 25%;  height: 25%;
+background-color:rgb(136, 71, 197) ;
+float: left;
+
+
+
+}
+.div7{
+    font-family: 'Courier New', Courier, monospace;
+    width: 25%;  height: 25%;
+background-color:rgb(73, 55, 90) ;
+float: left;
+
+
+
+}
+.div8{
+    font-family: 'Courier New', Courier, monospace;
+    width: 25%;  height: 25%;
+background-color:rgb(55, 5, 102) ;
+float: left;
+
+
+
+}
+.div9{
+    font-family: 'Courier New', Courier, monospace;
+    width: 25%;  height: 25%;
+background-color:rgb(200, 160, 238) ;
+float: left;
+clear: both;
+
+
+}
+.div10{
+    font-family: 'Courier New', Courier, monospace;
+    width: 25%;  height: 25%;
+background-color:rgb(152, 112, 189) ;
+float: left;
+
+
+
+}
+.div11{
+    font-family: 'Courier New', Courier, monospace;
+    width: 25%;  height: 25%;
+background-color:rgb(102, 66, 136) ;
+float: left;
+
+
+
+}
+.div12{
+    font-family: 'Courier New', Courier, monospace;
+    width: 25%;  height: 25%;
+background-color:rgb(42, 33, 51) ;
+float: left;
+
+
+
+}
+.div13{
+    font-family: 'Courier New', Courier, monospace;
+    width: 25%;  height: 25%;
+background-color:rgb(31, 25, 36) ;
+float: left;
+clear: both;
+
+
+}
+.div14{
+    font-family: 'Courier New', Courier, monospace;
+    width: 25%;  height: 25%;
+background-color:rgb(89, 5, 167) ;
+float: left;
+
+
+
+}
+.div15{
+    font-family: 'Courier New', Courier, monospace;
+    width: 25%;  height: 25%;
+background-color:rgb(150, 137, 161) ;
+float: left;
+
+
+
+}
+.div16{
+    font-family: 'Courier New', Courier, monospace;
+    width: 25%;  height: 25%;   
+background-color:rgb(180, 145, 212) ;
+float: left;
+
+
+
+}
+
+
+
+
+
